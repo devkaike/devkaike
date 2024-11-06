@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Kaique! 👋
+# Olá, eu sou o Kaike! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na PUC Goiás e estou no penúltimo ano. Trabalho atualmente como **Estagiário de desenvolvendo de software** na TT&T soluções Tecnologias, onde sou responsavel por desenvolver APIs RESTfull utilizando SpringBoot e demais Frameworks do java. Sou apaixonado por tecnologia e estou me especializando em desenvolvimento **back-end com Java**. 
 
